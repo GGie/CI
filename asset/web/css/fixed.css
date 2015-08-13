@@ -1,0 +1,65 @@
+
+/* tes */
+#gie-top-wrapper {
+	float: left;
+	position: relative;
+	width: 100%;
+	}
+#gie-nav {
+	float: left;
+	position: relative;
+	width: 100%;
+	}
+#gie-main-nav-wrapper {
+
+	float: left;
+	position: relative;
+	width: 100%;
+	z-index: 2000;
+	}
+#gie-main-nav {
+	margin: 0 auto;
+	position: relative;
+	width: 100%;
+	height: 38px;
+	}
+	
+@media only screen and (max-width: 1024px) {
+#gie-main-nav {
+	margin: 0 auto;
+	position: relative;
+	width: 100%;
+	height: 38px;
+	}
+}
+@media only screen and (max-width: 800px) {
+#gie-main-nav {
+	margin: 0 auto;
+	position: relative;
+	width: 100%;
+	height: 38px;
+	}
+}
+@media only screen and (max-width: 640px) {
+#gie-main-nav {
+	margin: 0 auto;
+	position: relative;
+	width: 100%;
+	height: 38px;
+	}
+}
+@media only screen and (max-width: 480px) {
+#gie-main-nav {
+	margin: 0 auto;
+	position: relative;
+	width: 100%;
+	height: 38px;
+	}
+}
+@media only screen and (max-width: 320px) {
+
+}
+.gie-fixed-nav {
+	position: fixed !important;
+	z-index: 2000;
+	}
